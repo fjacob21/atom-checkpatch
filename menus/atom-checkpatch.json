@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-checkpatch",
+        "command": "atom-checkpatch:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-checkpatch",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-checkpatch:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
