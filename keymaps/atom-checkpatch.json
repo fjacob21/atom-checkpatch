@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-checkpatch:toggle"
+    "ctrl-alt-p": "atom-checkpatch:toggle"
   }
 }
