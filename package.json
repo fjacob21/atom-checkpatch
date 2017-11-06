@@ -1,14 +1,14 @@
 {
   "name": "atom-checkpatch",
   "main": "./lib/atom-checkpatch",
-  "version": "0.0.2",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "Run checkpatch.pl on a Linux kernel subsystem to found problems",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "atom-checkpatch:toggle"
   },
-  "repository": "https://github.com/atom/atom-checkpatch",
+  "repository": "https://github.com/fjacob21/atom-checkpatch",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
