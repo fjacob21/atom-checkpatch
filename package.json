@@ -1,10 +1,9 @@
 {
   "name": "atom-checkpatch",
   "main": "./lib/atom-checkpatch",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Run checkpatch.pl on a Linux kernel subsystem to found problems",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-checkpatch:toggle"
   },
@@ -13,13 +12,12 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "consumedServices": {
-   "linter-indie": {
-     "versions": {
-       "2.0.0": "consumeIndie"
-     }
-   }
- }
+    "linter-indie": {
+      "versions": {
+        "2.0.0": "consumeIndie"
+      }
+    }
+  }
 }
