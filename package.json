@@ -1,7 +1,7 @@
 {
   "name": "atom-checkpatch",
   "main": "./lib/atom-checkpatch",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Run checkpatch.pl on a Linux kernel subsystem to found problems",
   "keywords": [
   ],
